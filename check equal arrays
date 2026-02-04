@@ -1,0 +1,11 @@
+class Solution:
+    def checkEqual(self, a, b) -> bool:
+        a.sort() #[0,1,2,4,5]
+        b.sort() #[0,1,2,4,5]
+        j=0
+        for i in range(len(a)):
+            if a[i]!=b[j]:
+                return False
+            else:
+                j += 1
+        return True
