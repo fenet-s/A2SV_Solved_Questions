@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
