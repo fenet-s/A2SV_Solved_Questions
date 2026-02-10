@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
