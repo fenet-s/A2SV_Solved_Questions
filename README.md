@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Math
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
