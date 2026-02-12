@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
