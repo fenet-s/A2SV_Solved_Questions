@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Divide and Conquer
