@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
 | ------- |
