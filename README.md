@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0722-remove-comments](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0867-transpose-matrix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0722-remove-comments](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
