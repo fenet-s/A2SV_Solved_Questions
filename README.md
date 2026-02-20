@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
