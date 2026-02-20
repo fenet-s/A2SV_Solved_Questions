@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2418-sort-the-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2671-frequency-tracker](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [2418-sort-the-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
