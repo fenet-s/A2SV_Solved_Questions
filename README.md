@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
