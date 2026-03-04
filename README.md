@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
