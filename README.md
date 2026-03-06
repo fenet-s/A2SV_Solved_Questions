@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -235,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
