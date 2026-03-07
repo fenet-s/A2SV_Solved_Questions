@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
