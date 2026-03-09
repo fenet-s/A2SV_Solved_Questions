@@ -1,0 +1,9 @@
+n = int(input())
+a = list(map(int, input().split()))
+pos = 1
+a.sort()
+for num in a:
+    if num>=pos:
+        pos += 1
+print(pos-1)
+ 
