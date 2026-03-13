@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
