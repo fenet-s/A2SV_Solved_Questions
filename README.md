@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0763-partition-labels](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
