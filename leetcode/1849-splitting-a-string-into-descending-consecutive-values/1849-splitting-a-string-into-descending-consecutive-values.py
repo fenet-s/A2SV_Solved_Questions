@@ -10,10 +10,11 @@ class Solution:
             
             for j in range(idx,len(s)):
                 val = int(s[idx: j+1])
-                current.append(val)
-                if backtrack(j+1,current):
-                    return True
-                current.pop()
+                if len(current) == 0 or val+1 == current[-1]:
+                    current.append(val)
+                    if backtrack(j+1,current):
+                        return True
+                    current.pop()
             return False
         return backtrack(0,[])
         
