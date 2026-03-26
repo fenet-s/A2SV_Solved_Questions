@@ -15,6 +15,9 @@ class Solution:
                 childs[i] += cookies[idx]
                 backtrack(idx+1, max(max_so_far, max(childs)))
                 childs[i] -= cookies[idx]
+
+                if childs[i] == 0:
+                    return 
         backtrack(0,0)
 
         return self.minUnfairness
