@@ -1,7 +1,6 @@
 class Solution:
     def longestNiceSubstring(self, s: str) -> str:
-        if len(s) < 2:
-            return ""
+        
 
         seen = set(s)
 
