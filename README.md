@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1763-longest-nice-substring](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2381-shifting-letters-ii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [1763-longest-nice-substring](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [2305-fair-distribution-of-cookies](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1763-longest-nice-substring](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
