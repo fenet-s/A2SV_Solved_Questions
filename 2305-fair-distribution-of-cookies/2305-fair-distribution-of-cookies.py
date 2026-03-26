@@ -13,7 +13,7 @@ class Solution:
              
             for i in range(k):
                 childs[i] += cookies[idx]
-                backtrack(idx+1, max(max_so_far, max(childs)))
+                backtrack(idx+1, max(max_so_far, childs[i]))
                 childs[i] -= cookies[idx]
 
                 if childs[i] == 0:
