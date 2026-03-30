@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2671-frequency-tracker](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Binary Search
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
