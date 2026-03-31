@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
