@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1598-crawler-log-folder](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1763-longest-nice-substring](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1763-longest-nice-substring) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2381-shifting-letters-ii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [1598-crawler-log-folder](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 ## Prefix Sum
 |  |
 | ------- |
