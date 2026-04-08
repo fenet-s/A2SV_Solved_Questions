@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [2487-remove-nodes-from-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2487-remove-nodes-from-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
