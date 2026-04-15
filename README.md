@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
