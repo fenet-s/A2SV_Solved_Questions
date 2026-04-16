@@ -1,9 +1,7 @@
 class Solution:
+    from collections import Counter
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        from collections import Counter
-
-class Solution:
-    def findErrorNums(self, nums: List[int]):
+        
         count = Counter(nums)
         
         duplicates = []
