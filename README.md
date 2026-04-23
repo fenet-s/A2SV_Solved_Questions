@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
