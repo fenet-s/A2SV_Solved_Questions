@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0690-employee-importance](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0722-remove-comments](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0930-binary-subarrays-with-sum](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/fenet-s/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 ## Binary Search Tree
 |  |
 | ------- |
