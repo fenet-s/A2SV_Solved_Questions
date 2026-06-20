@@ -5,8 +5,8 @@ class Solution:
         n = len(p)
         m = len(s)
         
-        if n > m:
-            return ans
+        # if n > m:
+        #     return ans
         
         p_count = Counter(p)
         window_count = Counter(s[:n])
